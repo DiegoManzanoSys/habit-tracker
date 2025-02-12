@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Frutas",
+    "calories": 60,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 0
+  },
+  {
+    "id": "2",
+    "name": "Verduras",
+    "calories": 25,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 0
+  },
+  {
+    "id": "3",
+    "name": "Proteínas",
+    "calories": 120,
+    "protein": 22,
+    "carbs": 0,
+    "fat": 3
+  },
+  {
+    "id": "4",
+    "name": "Granos",
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 1
+  },
+  {
+    "id": "5",
+    "name": "Lácteos",
+    "calories": 100,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 3
+  },
+  {
+    "id": "6",
+    "name": "Grasas saludables",
+    "calories": 45,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 5
+  }
+]
+

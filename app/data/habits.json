@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "type": "water",
+    "name": "Beber Agua",
+    "goal": 2000,
+    "unit": "ml",
+    "icon": "droplet",
+    "color": "blue",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-01-01T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "type": "exercise",
+    "name": "Hacer Ejercicio",
+    "goal": 30,
+    "unit": "minutos",
+    "icon": "dumbbell",
+    "color": "red",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-01-01T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "userId": "1",
+    "type": "food",
+    "name": "Comer Saludable",
+    "goal": 5,
+    "unit": "porciones",
+    "icon": "apple",
+    "color": "green",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-01-01T00:00:00Z"
+  }
+]
+

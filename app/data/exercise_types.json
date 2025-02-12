@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "name": "Caminar",
+    "caloriesPerMinute": 5,
+    "icon": "walking"
+  },
+  {
+    "id": "2",
+    "name": "Correr",
+    "caloriesPerMinute": 10,
+    "icon": "running"
+  },
+  {
+    "id": "3",
+    "name": "Ciclismo",
+    "caloriesPerMinute": 8,
+    "icon": "bike"
+  },
+  {
+    "id": "4",
+    "name": "Natación",
+    "caloriesPerMinute": 11,
+    "icon": "swim"
+  },
+  {
+    "id": "5",
+    "name": "Yoga",
+    "caloriesPerMinute": 4,
+    "icon": "yoga"
+  }
+]
+
