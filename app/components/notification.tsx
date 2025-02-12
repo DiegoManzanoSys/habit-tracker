@@ -22,7 +22,7 @@ export function Notification() {
         )
 
         if (upcomingMeal) {
-          setNotificationMessage(`¡Es hora de tu ${upcomingMeal.name}!`)
+          setNotificationMessage(`¡Llegó la hora de tu ${upcomingMeal.name}!`)
           setShowNotification(true)
           setTimeout(() => setShowNotification(false), 5000)
         }
