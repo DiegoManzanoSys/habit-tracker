@@ -89,7 +89,7 @@ export default function WaterHabit() {
 
       <Card className="w-full max-w-md shadow-lg rounded-2xl border-2 border-blue-300">
         <CardHeader className="flex flex-row items-center justify-between pb-2">
-          <CardTitle className="text-2xl font-bold text-blue-800">Beber Agua</CardTitle>
+          <CardTitle className="text-2xl font-bold text-blue-800">Beber Agua.</CardTitle>
           <Button
             variant="ghost"
             size="icon"
